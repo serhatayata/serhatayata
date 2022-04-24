@@ -8,8 +8,6 @@ Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/serhatayata/serhatayata)](https://badges.pufler.dev/visits/serhatayata/serhatayata)
-
 [![serhatayata's github stats](https://github-readme-stats.vercel.app/api?username=serhatayata&theme=dark&show_icons=true)](https://github.com/serhatayata)
 
 <br>
