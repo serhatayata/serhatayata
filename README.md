@@ -8,7 +8,7 @@ Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 
 <br>
 
-[![serhatayata's github stats](https://github-readme-stats.vercel.app/api?username=serhatayata&theme=dark&show_icons=true&theme=radical)](https://github.com/serhatayata)
+[![serhatayata's github stats](https://github-readme-stats.vercel.app/api?username=serhatayata&theme=dark&show_icons=true&theme=radical)]
 
 <br>
 
