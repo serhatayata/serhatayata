@@ -1,4 +1,4 @@
-Hey there ..
+Hey there !
 
 - :telescope: I’m working as a Software Developer
 
