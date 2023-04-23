@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm working as a Full Stack Developer<br>I'm currently working on .NET Technologies, IdentityServer4 and Docker
+- I'm working as a Full Stack Developer<br> 
+- I'm currently interested in Microservices Architecture, Docker and IdentityServer4
 
 
 ## 🌐 Socials:
