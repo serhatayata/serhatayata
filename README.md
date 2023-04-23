@@ -1,6 +1,6 @@
 
 - I'm working as a Full Stack Developer<br> 
-- I'm currently interested in Microservices Architecture, Docker and IdentityServer4
+- Recently interested in Microservices Architecture and IdentityServer4
 
 
 ## 🌐 Socials:
