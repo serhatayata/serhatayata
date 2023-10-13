@@ -1,6 +1,6 @@
 
 - I'm working as a Full Stack Developer<br> 
-- Recently interested in Microservices Architecture, EventBus and SAGA
+- Recently interested in Microservices Architecture, EventBus, SAGA and Linux
 
 
 ## 🌐 Socials:
